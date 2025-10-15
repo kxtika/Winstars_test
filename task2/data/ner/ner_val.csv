@@ -1,0 +1,31 @@
+tokens,tags
+There is a dog in the garden,O O O B-ANIMAL O O O
+A cat is sleeping on the sofa,O B-ANIMAL O O O O O
+The horse and cow are eating grass,O B-ANIMAL O B-ANIMAL O O O O
+I saw an elephant near the tree,O O O B-ANIMAL O O O O
+The butterfly landed on a flower,O B-ANIMAL O O O O O
+The squirrel jumped across the fence,O B-ANIMAL O O O O O
+The spider built a web in the corner,O B-ANIMAL O O O O O
+The chicken is walking in the yard,O B-ANIMAL O O O O O
+The sheep is grazing in the field,O B-ANIMAL O O O O O O
+I love taking photos of cows and horses,O O O O O B-ANIMAL O O B-ANIMAL O
+A group of cows stood near the barn,O O O B-ANIMAL O O O O
+An elephant walked slowly across the field,O B-ANIMAL O O O O O O O
+The horse was drinking water from the river,O B-ANIMAL O O O O O O O
+The butterfly rested on the leaf,O B-ANIMAL O O O O
+A spider crawled along the wall,O B-ANIMAL O O O O
+The chicken laid an egg this morning,O B-ANIMAL O O O O O
+The sheep followed the farmer to the gate,O B-ANIMAL O O O O O O O
+A cat and a dog are best friends,O B-ANIMAL O O O O B-ANIMAL O O
+The cow and the horse are standing together,O B-ANIMAL O O O O B-ANIMAL O O
+A squirrel found a nut under the tree,O B-ANIMAL O O O O O O O
+The elephant is splashing water with its trunk,O B-ANIMAL O O O O O O O O
+I saw a butterfly and a spider in the window,O O O B-ANIMAL O O O B-ANIMAL O O O
+A chicken ran past the fence,O B-ANIMAL O O O O
+The sheep were sleeping on the hill,O B-ANIMAL O O O O O
+The dog barked loudly at the stranger,O B-ANIMAL O O O O O
+The cat was sitting by the fireplace,O B-ANIMAL O O O O O
+Two horses ran quickly across the field,O O B-ANIMAL O O O O O O
+A cow and a sheep are eating hay,O B-ANIMAL O O O B-ANIMAL O O O
+A squirrel chased a butterfly near the pond,O B-ANIMAL O O O B-ANIMAL O O O O
+The spider made a large web near the door,O B-ANIMAL O O O O O O O

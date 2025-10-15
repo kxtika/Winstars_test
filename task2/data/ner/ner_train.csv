@@ -1,0 +1,11 @@
+tokens,tags
+There is a dog in the garden,O O O B-ANIMAL O O O
+A cat is sleeping on the sofa,O B-ANIMAL O O O O O
+The horse and cow are eating grass,O B-ANIMAL O B-ANIMAL O O O O
+I saw an elephant near the tree,O O O B-ANIMAL O O O O
+The butterfly landed on a flower,O B-ANIMAL O O O O O
+The squirrel jumped across the fence,O B-ANIMAL O O O O O
+The spider built a web in the corner,O B-ANIMAL O O O O O
+The chicken is walking in the yard,O B-ANIMAL O O O O O
+The sheep is grazing in the field,O B-ANIMAL O O O O O O
+I love taking photos of cows and horses,O O O O O B-ANIMAL O O B-ANIMAL O
